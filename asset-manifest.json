@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/github-pages-landing-page/static/css/main.5f361e03.chunk.css",
-    "main.js": "/github-pages-landing-page/static/js/main.931554f0.chunk.js",
-    "main.js.map": "/github-pages-landing-page/static/js/main.931554f0.chunk.js.map",
+    "main.css": "/github-pages-landing-page/static/css/main.224d4c39.chunk.css",
+    "main.js": "/github-pages-landing-page/static/js/main.d9f68320.chunk.js",
+    "main.js.map": "/github-pages-landing-page/static/js/main.d9f68320.chunk.js.map",
     "runtime-main.js": "/github-pages-landing-page/static/js/runtime-main.60f100a3.js",
     "runtime-main.js.map": "/github-pages-landing-page/static/js/runtime-main.60f100a3.js.map",
-    "static/js/2.d7ed4e68.chunk.js": "/github-pages-landing-page/static/js/2.d7ed4e68.chunk.js",
-    "static/js/2.d7ed4e68.chunk.js.map": "/github-pages-landing-page/static/js/2.d7ed4e68.chunk.js.map",
+    "static/js/2.fa68adf5.chunk.js": "/github-pages-landing-page/static/js/2.fa68adf5.chunk.js",
+    "static/js/2.fa68adf5.chunk.js.map": "/github-pages-landing-page/static/js/2.fa68adf5.chunk.js.map",
     "index.html": "/github-pages-landing-page/index.html",
-    "precache-manifest.006e0c66a32e17ac87f3fde82b20916f.js": "/github-pages-landing-page/precache-manifest.006e0c66a32e17ac87f3fde82b20916f.js",
+    "precache-manifest.feb02c34a2dde39f7d196aea33e969b5.js": "/github-pages-landing-page/precache-manifest.feb02c34a2dde39f7d196aea33e969b5.js",
     "service-worker.js": "/github-pages-landing-page/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/github-pages-landing-page/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d7ed4e68.chunk.js.LICENSE.txt": "/github-pages-landing-page/static/js/2.d7ed4e68.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/github-pages-landing-page/static/media/logo.5d5d9eef.svg"
+    "static/css/main.224d4c39.chunk.css.map": "/github-pages-landing-page/static/css/main.224d4c39.chunk.css.map",
+    "static/js/2.fa68adf5.chunk.js.LICENSE.txt": "/github-pages-landing-page/static/js/2.fa68adf5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.60f100a3.js",
-    "static/js/2.d7ed4e68.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.931554f0.chunk.js"
+    "static/js/2.fa68adf5.chunk.js",
+    "static/css/main.224d4c39.chunk.css",
+    "static/js/main.d9f68320.chunk.js"
   ]
 }
