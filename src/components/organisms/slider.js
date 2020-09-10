@@ -1,11 +1,12 @@
 import React, { useState } from 'react'
 
 import SlideContent from './slideContent';
+import SlideContent2 from './slideContent2';
 import '../../App.css'
 
 export default function Slider() {
 
-    let sliderArr = [<SlideContent title="Hype Mapper: the new way to resell" />, <SlideContent title="Slide 2" />, <SlideContent title="Slide 3" />, <SlideContent title="Slide 4" />, <SlideContent title="Slide 5" />]
+    let sliderArr = [<SlideContent title="Hype Mapper: the new way to resell" path="/img/first_slide_1.png" />, <SlideContent2 title="Slide 2" path="/img/first_slide_2.png" />, <SlideContent2 title="Slide 3" path="/img/first_slide_3.png" />, <SlideContent title="Slide 4" path="/img/first_slide_4.png" />, <SlideContent title="Slide 5" path="/img/first_slide_5.png" />]
     const [x, setX] = useState(0)
     const goUp = () => {
         x === 0 ? setX(-100 * (sliderArr.length - 1)) : setX(x + 100);
