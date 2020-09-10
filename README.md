@@ -1,3 +1,11 @@
+## Per aggiornare la pagina
+
+1. Clona questa repository sul computer
+2. Fai i cambiamenti che devi fare 
+3. Pusha nel branch master i cambiamenti
+4. Fai "npm run deploy" per far sì che vengano attuati nel branch gh-page
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
