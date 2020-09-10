@@ -5,7 +5,7 @@ import '../../App.css'
 
 export default function Slider() {
 
-    let sliderArr = [<SlideContent title="Slide 1" />, <SlideContent title="Slide 2" />, <SlideContent title="Slide 3" />, <SlideContent title="Slide 4" />, <SlideContent title="Slide 5" />]
+    let sliderArr = [<SlideContent title="Hype Mapper: the new way to resell" />, <SlideContent title="Slide 2" />, <SlideContent title="Slide 3" />, <SlideContent title="Slide 4" />, <SlideContent title="Slide 5" />]
     const [x, setX] = useState(0)
     const goUp = () => {
         x === 0 ? setX(-100 * (sliderArr.length - 1)) : setX(x + 100);
@@ -29,7 +29,6 @@ export default function Slider() {
                         <div className="slide" style={{
                             transform: `translateY(${x}%)`
                         }}>
-                            <br />
                             {item}
                         </div>
                     )
